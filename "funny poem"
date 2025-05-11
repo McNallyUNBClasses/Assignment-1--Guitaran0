@@ -1,0 +1,2 @@
+x = """I once met a dancing robot, who wore a hat and never forgot. To tickle the clouds with a joke, and laugh at the moon 'till it woke!"""
+print(x)
